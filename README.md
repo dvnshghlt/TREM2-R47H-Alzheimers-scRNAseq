@@ -63,16 +63,83 @@ GO enrichment
 Ranked-gene GSEA
         ↓
 Biological integration
-## Key Results & Visualizations
+## Computational Methods
+
+The analysis was performed using a Python-based single-cell RNA-seq workflow.
+
+### Main steps
+
+- Dataset exploration and quality assessment
+- Cell-type annotation using established marker genes
+- UMAP visualization
+- TREM2 genotype characterization
+- R47H vs WT comparison
+- Cell-type-specific analysis
+- Gene Ontology (GO) enrichment
+- Ranked-gene Gene Set Enrichment Analysis (GSEA)
+- Biological integration of cell-type and pathway-level results
+
+### Tools
+
+- Python
+- Scanpy
+- Pandas
+- NumPy
+- Matplotlib
+- GSEApy
+- Jupyter Notebook
+- Git / GitHub
+## Key Results
 
 ### Cell-Type Annotation
 
-UMAP visualization showing the major cell populations identified in the
-single-cell dataset.
+The dataset contained seven major cell populations:
+
+- Astrocytes
+- Endothelial cells
+- Excitatory neurons
+- Inhibitory neurons
+- Microglia
+- Oligodendrocytes
+- Oligodendrocyte precursor cells
+
+### TREM2 Genotype
+
+The dataset contained:
+
+- 92,324 WT cells
+- 30,279 R47H cells
+
+The TREM2 genotype distribution was examined across the identified cell
+populations.
+
+### Functional Enrichment
+
+GO enrichment analysis was performed to identify biological processes
+associated with cell-type-specific transcriptional patterns.
+
+### Microglia GSEA
+
+Ranked-gene GSEA in microglia identified prominent pathways involving:
+
+- Translation
+- Cytoplasmic translation
+- Peptide biosynthetic processes
+- Macromolecule biosynthetic processes
+- Ribosome biogenesis
+- Cellular respiration
+- Oxidative phosphorylation
+- Mitochondrial ATP synthesis
+- Mitochondrial respiratory chain processes
+## Key Visualizations
+
+### Cell-Type Annotation
+
+UMAP visualization of the major cell populations identified in the dataset.
 
 ![Cell Type UMAP](notebooks/results/final_results/UMAP_final_celltype_annotation.png)
 
-### TREM2 Genotype Distribution
+### TREM2 Genotype
 
 UMAP visualization showing the distribution of TREM2 WT and R47H cells.
 
@@ -80,7 +147,7 @@ UMAP visualization showing the distribution of TREM2 WT and R47H cells.
 
 ### Cell-Type Composition
 
-Comparison of WT and R47H cell-type composition.
+Comparison of cell-type composition between WT and R47H groups.
 
 ![Cell Type Composition](notebooks/results/final_results/WT_vs_R47H_celltype_composition.png)
 
@@ -90,15 +157,42 @@ Functional enrichment analysis across the annotated cell populations.
 
 ![GO Enrichment](notebooks/results/final_results/GO_enrichment_summary.png)
 
-### Microglial GSEA
+### Microglia GSEA
 
-Ranked-gene GSEA highlights biological processes associated with TREM2 R47H
-in microglia.
+Pathway-level analysis of ranked microglial gene expression.
 
 ![Microglia GSEA](notebooks/results/trem2_DE/GSEA_Microglia_Clean/Microglia_GSEA_summary.png)
 
-### Microglial Leading-Edge Analysis
+### GSEA Leading-Edge Analysis
 
-Leading-edge genes associated with the enriched microglial pathways.
+Leading-edge genes associated with enriched microglial pathways.
 
-![Leading Edge Heatmap](notebooks/results/trem2_DE/GSEA_Microglia_Clean/Microglia_GSEA_leading_edge_heatmap.png)
+![GSEA Leading Edge](notebooks/results/trem2_DE/GSEA_Microglia_Clean/Microglia_GSEA_leading_edge_heatmap.png)
+## Limitations
+
+- This analysis uses an existing single-cell RNA-seq dataset.
+- The original large `.h5ad` expression matrix is not included in this
+  repository because of its size.
+- Conventional differential expression produced a limited number of
+  statistically significant genes after multiple-testing correction.
+- Ranked-gene pathway analysis was therefore used to investigate coordinated
+  transcriptional patterns.
+- The findings are exploratory and require experimental validation.
+## Reproducibility
+
+The repository contains the main analysis notebook, processed results,
+visualizations, and pathway-level outputs used for biological interpretation.
+
+The original `.h5ad` dataset is excluded because of its file size.
+
+## Author
+
+**Devansh Gahlot**
+
+B.Tech Biotechnology  
+Birla Institute of Technology, Mesra
+
+## Project Focus
+
+**Single-cell transcriptomics | Alzheimer's disease | TREM2 R47H |
+Computational biology | Functional genomics | Pathway analysis**
