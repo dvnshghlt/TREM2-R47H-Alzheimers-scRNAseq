@@ -1,0 +1,36 @@
+Cell Type,GO Biological Process,Adjusted P-value
+Ast,Positive Regulation Of Lipid Metabolic Process (GO:0045834),0.0071827413461135
+Ast,Neuron Projection Morphogenesis (GO:0048812),0.0071827413461135
+Ast,Cellular Response To Organic Cyclic Compound (GO:0071407),0.0071827413461135
+Ast,Regulation Of Lipid Biosynthetic Process (GO:0046890),0.0071827413461135
+Ast,L-aspartate Import Across Plasma Membrane (GO:0140009),0.0071827413461135
+End,Negative Regulation Of Epithelial Cell Migration (GO:0010633),0.0005528644807088734
+End,Negative Regulation Of Angiogenesis (GO:0016525),0.0005528644807088734
+End,Negative Regulation Of Blood Vessel Morphogenesis (GO:2000181),0.0060246200636557
+End,Protection From Natural Killer Cell Mediated Cytotoxicity (GO:0042270),0.0060246200636557
+End,Regulation Of Endothelial Cell Migration (GO:0010594),0.0060246200636557
+Ex,Modulation Of Chemical Synaptic Transmission (GO:0050804),0.0002986377199431433
+Ex,Calcium-Mediated Signaling (GO:0019722),0.0005497466169349668
+Ex,Ephrin Receptor Signaling Pathway (GO:0048013),0.0006482303532400441
+Ex,Regulation Of Exocytosis (GO:0017157),0.0010730256181339
+Ex,Nervous System Development (GO:0007399),0.0010730256181339
+In,Neuron Development (GO:0048666),5.19302352400287e-08
+In,Modulation Of Chemical Synaptic Transmission (GO:0050804),1.6043532519925262e-07
+In,Chemical Synaptic Transmission (GO:0007268),1.6043532519925262e-07
+In,Anterograde Trans-Synaptic Signaling (GO:0098916),1.6043532519925262e-07
+In,Regulation Of Trans-Synaptic Signaling (GO:0099177),2.583903443965112e-06
+Mic,Positive Regulation Of B Cell Activation (GO:0050871),0.0063283714786634
+Mic,Positive Regulation Of B Cell Proliferation (GO:0030890),0.0189601728513157
+Mic,Synapse Pruning (GO:0098883),0.0334660196644183
+Mic,Regulation Of B Cell Proliferation (GO:0030888),0.0334660196644183
+Mic,Melanocyte Differentiation (GO:0030318),0.0367505164084474
+Oli,Neuron Projection Development (GO:0031175),0.0231595761973744
+Oli,Axon Ensheathment In Central Nervous System (GO:0032291),0.0231595761973744
+Oli,Regulation Of Cell Motility (GO:2000145),0.0288832204736485
+Oli,Central Nervous System Myelination (GO:0022010),0.0288832204736485
+Oli,Negative Regulation Of Locomotion (GO:0040013),0.0288832204736485
+Opc,Nervous System Development (GO:0007399),1.2701696084819203e-08
+Opc,Synapse Assembly (GO:0007416),3.05798020576128e-06
+Opc,Neuron Projection Guidance (GO:0097485),3.05798020576128e-06
+Opc,Axon Guidance (GO:0007411),8.149281066358289e-06
+Opc,Cell Junction Assembly (GO:0034329),1.0145402721792277e-05

@@ -1,0 +1,8 @@
+Cell Type,Major GO Themes,Representative Genes,Functional Interpretation
+Ast,Lipid metabolism; lipid biosynthesis; neuronal projection; aspartate transport,"APOE, SLC1A2, SLC1A3, CLU, RYR3",Altered astrocytic lipid handling and amino-acid transport with neuronal-support functions
+End,Endothelial migration; angiogenesis; blood-vessel morphogenesis,"CLDN5, FLT1, DCN, SPARC, PTPRM",Altered vascular/endothelial regulatory processes
+Ex,Chemical synaptic transmission; calcium signaling; ephrin signaling; exocytosis,"KCNIP4, KCNQ5, STXBP5L, RALYL, LDB2",Altered excitatory neuronal signaling and calcium-dependent communication
+In,Neuron development; chemical synaptic transmission; trans-synaptic signaling,"GAD1, NXPH1, GRIP1, GRIK1, ZNF385D",Altered inhibitory neuronal development and synaptic communication
+Mic,B-cell activation/proliferation; synapse pruning,"APBB1IP, DOCK8, PTPRC, CD74",Altered immune-associated functions and synaptic pruning
+Oli,Neuron projection development; CNS myelination; axon ensheathment,"PLP1, MBP, ST18, TMEM144",Altered myelination and axon ensheathment-related processes
+Opc,Nervous-system development; synapse assembly; axon guidance; synapse organization,"VCAN, LHFPL3, PCDH15, MEGF11","Altered developmental, axonal and synaptic organization programs"

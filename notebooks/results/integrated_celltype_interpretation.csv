@@ -1,0 +1,8 @@
+Cell Type,Canonical Markers,Major GO Functions
+Ast,"AQP4, GFAP, ALDH1L1",Lipid metabolism; lipid biosynthesis; aspartate transport
+Ex,"SLC17A7, CAMK2A",Synaptic transmission; glutamatergic signaling; calcium signaling
+In,"GAD1, GAD2",Synaptic signaling; calcium-mediated signaling; neuronal development
+Oli,"MBP, PLP1, MOG",CNS myelination; axon ensheathment; oligodendrocyte development
+Opc,"PDGFRA, CSPG4",Axon guidance; synapse assembly; neuronal projection
+Mic,"AIF1, CX3CR1, C1QA",Immune-related signaling; cellular response pathways
+End,"CLDN5, FLT1, KDR",Angiogenesis; endothelial migration; blood-vessel development

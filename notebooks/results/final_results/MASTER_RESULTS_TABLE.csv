@@ -1,0 +1,8 @@
+Cell Type,WT_percent,R47H_percent,Significant_GO_terms,Major GO Themes,Representative Genes,Functional Interpretation
+Ast,68.61551972900068,31.38448027099931,59,Lipid metabolism; lipid biosynthesis; neuronal projection; aspartate transport,"APOE, SLC1A2, SLC1A3, CLU, RYR3",Altered astrocytic lipid handling and amino-acid transport with neuronal-support functions
+End,71.01947308132875,28.980526918671252,29,Endothelial migration; angiogenesis; blood-vessel morphogenesis,"CLDN5, FLT1, DCN, SPARC, PTPRM",Altered vascular/endothelial regulatory processes
+Ex,81.5232901844868,18.4767098155132,47,Chemical synaptic transmission; calcium signaling; ephrin signaling; exocytosis,"KCNIP4, KCNQ5, STXBP5L, RALYL, LDB2",Altered excitatory neuronal signaling and calcium-dependent communication
+In,80.29040508208894,19.709594917911062,50,Neuron development; chemical synaptic transmission; trans-synaptic signaling,"GAD1, NXPH1, GRIP1, GRIK1, ZNF385D",Altered inhibitory neuronal development and synaptic communication
+Mic,78.85131508319914,21.148684916800857,14,B-cell activation/proliferation; synapse pruning,"APBB1IP, DOCK8, PTPRC, CD74",Altered immune-associated functions and synaptic pruning
+Oli,70.95568119642532,29.044318803574686,6,Neuron projection development; CNS myelination; axon ensheathment,"PLP1, MBP, ST18, TMEM144",Altered myelination and axon ensheathment-related processes
+Opc,72.85630670178519,27.14369329821481,63,Nervous-system development; synapse assembly; axon guidance; synapse organization,"VCAN, LHFPL3, PCDH15, MEGF11","Altered developmental, axonal and synaptic organization programs"

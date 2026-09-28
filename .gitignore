@@ -1,0 +1,40 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw / large datasets
+data/
+*.h5ad
+*.h5
+*.hdf5
+*.h5ad.gz
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code local settings
+.vscode/
+# Generated analysis reports
+*.pdf
+*.rnk
+*.gmt
+
+# Temporary project files
+start
+
+# GSEA intermediate outputs
+notebooks/results/trem2_DE/GSEA_Microglia/prerank/
+notebooks/results/trem2_DE/GSEA_Microglia_Clean/GO_GSEA/prerank/
