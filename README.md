@@ -57,13 +57,10 @@ GO enrichment
 Ranked-gene GSEA
         ↓
 Biological integration
-**Important:** this block contains an inner code block. When you paste it, make sure the three backticks around `text` and the final three backticks are preserved exactly.
+```
 
 ---
 
-## BLOCK 4 — COMPUTATIONAL METHODS
-
-```markdown
 ## Computational Methods
 
 The analysis was performed using a Python-based single-cell RNA-seq workflow.
@@ -164,7 +161,9 @@ Pathway-level analysis of ranked microglial gene expression.
 
 Leading-edge genes associated with enriched microglial pathways.
 
-![GSEA Leading Edge](notebooks/results/trem2_DE/GSEA_Microglia_Clean/Microglia_GSEA_leading_edge_heatmap.png)## Results and Outputs
+![GSEA Leading Edge](notebooks/results/trem2_DE/GSEA_Microglia_Clean/Microglia_GSEA_leading_edge_heatmap.png)
+
+## Results and Outputs
 
 The repository contains processed results and visualizations generated during the analysis, including:
 
@@ -193,12 +192,10 @@ TREM2-R47H-Alzheimers-scRNAseq/
 ├── .gitignore
 └── README.md
 Again, this block contains a nested code block, so preserve the backticks exactly.
+```
 
 ---
 
-## BLOCK 9 — LIMITATIONS
-
-```markdown
 ## Limitations
 
 - This analysis uses an existing single-cell RNA-seq dataset.
