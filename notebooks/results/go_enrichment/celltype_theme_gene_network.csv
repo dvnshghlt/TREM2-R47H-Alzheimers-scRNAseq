@@ -1,0 +1,82 @@
+Cell_Type,Biological_Theme,Gene,GO_Term_Count,Best_Adjusted_P,Max_Odds_Ratio
+Ast,Amino-acid transport,SLC1A2,1,0.007182741,277.0417
+Ast,Amino-acid transport,SLC1A3,1,0.007182741,277.0417
+Ast,Lipid metabolism,APOE,2,0.007182741,60.57447
+Ast,Lipid metabolism,SORBS1,2,0.007182741,60.57447
+Ast,Lipid metabolism,ZBTB20,2,0.007182741,60.57447
+Ast,Neuronal development,CTNNA2,1,0.007182741,15.60993
+Ast,Neuronal development,CTNND2,1,0.007182741,15.60993
+Ast,Neuronal development,GPM6A,1,0.007182741,15.60993
+Ast,Neuronal development,PARD3,1,0.007182741,15.60993
+Ast,Neuronal development,TNIK,1,0.007182741,15.60993
+Ast,Other,ADCY2,1,0.007182741,14.96825
+Ast,Other,ATP1A2,1,0.007182741,14.96825
+Ast,Other,CLU,1,0.007182741,14.96825
+Ast,Other,RORA,1,0.007182741,14.96825
+Ast,Other,RYR3,1,0.007182741,14.96825
+End,Immune regulation,HLA-B,1,0.00602462,277.0417
+End,Immune regulation,HLA-E,1,0.00602462,277.0417
+End,Vascular/endothelial,DCN,4,0.0005528645,59.73313
+End,Vascular/endothelial,PTPRM,4,0.0005528645,59.73313
+End,Vascular/endothelial,ADAMTS9,3,0.0005528645,59.73313
+End,Vascular/endothelial,SPARC,3,0.0005528645,27.25514
+End,Vascular/endothelial,CLDN5,2,0.0005528645,27.25514
+Ex,Cell signaling,CHRM3,1,0.0005497466,27.59722
+Ex,Cell signaling,GRM5,1,0.0005497466,27.59722
+Ex,Cell signaling,PPP3CA,1,0.0005497466,27.59722
+Ex,Cell signaling,RYR2,1,0.0005497466,27.59722
+Ex,Cell signaling,SLC8A1,1,0.0005497466,27.59722
+Ex,Neuronal development,CHRM3,1,0.001073026,8.7507
+Ex,Neuronal development,DCLK1,1,0.001073026,8.7507
+Ex,Neuronal development,EFNA5,1,0.001073026,8.7507
+Ex,Neuronal development,FGF14,1,0.001073026,8.7507
+Ex,Neuronal development,KALRN,1,0.001073026,8.7507
+Ex,Synaptic signaling,DLGAP1,1,0.0002986377,23.11538
+Ex,Synaptic signaling,DLGAP2,1,0.0002986377,23.11538
+Ex,Synaptic signaling,GRM5,1,0.0002986377,23.11538
+Ex,Synaptic signaling,PPP3CA,1,0.0002986377,23.11538
+Ex,Synaptic signaling,RIMS2,1,0.0002986377,23.11538
+In,Neuronal development,ATP8A2,1,5.193024e-08,30.83913
+In,Neuronal development,CNTN4,1,5.193024e-08,30.83913
+In,Neuronal development,CNTNAP2,1,5.193024e-08,30.83913
+In,Neuronal development,MEF2C,1,5.193024e-08,30.83913
+In,Neuronal development,MYT1L,1,5.193024e-08,30.83913
+In,Synaptic signaling,GRIA1,4,1.604353e-07,71.39427
+In,Synaptic signaling,GRIK1,4,1.604353e-07,71.39427
+In,Synaptic signaling,GRIK2,4,1.604353e-07,71.39427
+In,Synaptic signaling,DLGAP1,3,1.604353e-07,32.853
+In,Synaptic signaling,SYT1,3,1.604353e-07,32.853
+Mic,Immune regulation,CD74,3,0.006328371,48.91326
+Mic,Immune regulation,MEF2C,3,0.006328371,48.91326
+Mic,Immune regulation,PTPRC,3,0.006328371,48.91326
+Mic,Immune regulation,INPP5D,1,0.006328371,36.05435
+Mic,Other,LRMDA,1,0.03675052,92.31944
+Mic,Other,MEF2C,1,0.03675052,92.31944
+Mic,Synaptic signaling,C1QB,1,0.03346602,138.5
+Mic,Synaptic signaling,C3,1,0.03346602,138.5
+Oli,Cell migration/motility,DOCK10,1,0.02888322,14.49105
+Oli,Cell migration/motility,ENPP2,1,0.02888322,14.49105
+Oli,Cell migration/motility,FRMD5,1,0.02888322,14.49105
+Oli,Cell migration/motility,SPOCK3,1,0.02888322,14.49105
+Oli,Neuronal development,GPM6B,3,0.02315958,166.2083
+Oli,Neuronal development,PLP1,3,0.02315958,166.2083
+Oli,Neuronal development,DOCK10,1,0.02315958,11.74272
+Oli,Neuronal development,FRYL,1,0.02315958,11.74272
+Oli,Neuronal development,SHTN1,1,0.02315958,11.74272
+Oli,Other,FRMD5,1,0.02888322,83.08333
+Oli,Other,SPOCK3,1,0.02888322,83.08333
+Opc,Neuronal development,DSCAM,3,1.27017e-08,27.59511
+Opc,Neuronal development,NRCAM,3,1.27017e-08,27.59511
+Opc,Neuronal development,NRXN1,3,1.27017e-08,27.59511
+Opc,Neuronal development,OPHN1,3,1.27017e-08,27.59511
+Opc,Neuronal development,SEMA5A,3,1.27017e-08,27.59511
+Opc,Other,ADGRL3,1,1.01454e-05,30.43054
+Opc,Other,DSCAM,1,1.01454e-05,30.43054
+Opc,Other,NLGN1,1,1.01454e-05,30.43054
+Opc,Other,NRCAM,1,1.01454e-05,30.43054
+Opc,Other,NRXN1,1,1.01454e-05,30.43054
+Opc,Synaptic signaling,ADGRL3,1,3.05798e-06,41.71678
+Opc,Synaptic signaling,DSCAM,1,3.05798e-06,41.71678
+Opc,Synaptic signaling,GRID2,1,3.05798e-06,41.71678
+Opc,Synaptic signaling,NLGN1,1,3.05798e-06,41.71678
+Opc,Synaptic signaling,NRCAM,1,3.05798e-06,41.71678

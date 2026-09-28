@@ -1,0 +1,8 @@
+Cell Type,Top Markers,Top GO Processes
+Ast,"GPC5, DTNA, SLC1A2, ADGRV1, GPM6A",Positive Regulation Of Lipid Metabolic Process (GO:0045834) | Neuron Projection Morphogenesis (GO:0048812) | Cellular Response To Organic Cyclic Compound (GO:0071407)
+Ex,"RALYL, KCNIP4, SYT1, KCNQ5, RBFOX1",Modulation Of Chemical Synaptic Transmission (GO:0050804) | Calcium-Mediated Signaling (GO:0019722) | Ephrin Receptor Signaling Pathway (GO:0048013)
+In,"CNTNAP2, GRIP1, ERBB4, NRXN3, KAZN",Neuron Development (GO:0048666) | Modulation Of Chemical Synaptic Transmission (GO:0050804) | Chemical Synaptic Transmission (GO:0007268)
+Oli,"PLP1, MBP, CTNNA3, ST18, IL1RAPL1",Neuron Projection Development (GO:0031175) | Axon Ensheathment In Central Nervous System (GO:0032291) | Regulation Of Cell Motility (GO:2000145)
+Opc,"LHFPL3, PCDH15, LRRC4C, DSCAM, TNR",Nervous System Development (GO:0007399) | Synapse Assembly (GO:0007416) | Neuron Projection Guidance (GO:0097485)
+Mic,"PLXDC2, LRMDA, ARHGAP24, DOCK4, CD74",Positive Regulation Of B Cell Activation (GO:0050871) | Positive Regulation Of B Cell Proliferation (GO:0030890) | Synapse Pruning (GO:0098883)
+End,"NEAT1, IFITM3, MALAT1, B2M, LHFPL6",Negative Regulation Of Epithelial Cell Migration (GO:0010633) | Negative Regulation Of Angiogenesis (GO:0016525) | Negative Regulation Of Blood Vessel Morphogenesis (GO:2000181)

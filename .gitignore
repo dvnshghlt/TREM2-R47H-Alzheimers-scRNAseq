@@ -38,3 +38,17 @@ start
 # GSEA intermediate outputs
 notebooks/results/trem2_DE/GSEA_Microglia/prerank/
 notebooks/results/trem2_DE/GSEA_Microglia_Clean/GO_GSEA/prerank/
+# Large/intermediate differential expression outputs
+notebooks/results/trem2_DE/*_R47H_vs_WT_DE.csv
+notebooks/results/trem2_DE/Mic_ranked_R47H_vs_WT.csv
+
+# GSEA intermediate files
+notebooks/results/trem2_DE/**/*.rnk
+notebooks/results/trem2_DE/**/*.gmt
+notebooks/results/trem2_DE/**/gseapy.gene_set.prerank.report.csv
+notebooks/results/trem2_DE/**/prerank_data.rnk
+
+# Individual pathway PDFs
+notebooks/results/trem2_DE/**/*.pdf
+# Microglia GSEA intermediate outputs
+notebooks/results/trem2_DE/GSEA_Microglia_Clean/GO_GSEA/
