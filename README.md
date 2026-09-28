@@ -63,3 +63,42 @@ GO enrichment
 Ranked-gene GSEA
         ↓
 Biological integration
+## Key Results & Visualizations
+
+### Cell-Type Annotation
+
+UMAP visualization showing the major cell populations identified in the
+single-cell dataset.
+
+![Cell Type UMAP](notebooks/results/final_results/UMAP_final_celltype_annotation.png)
+
+### TREM2 Genotype Distribution
+
+UMAP visualization showing the distribution of TREM2 WT and R47H cells.
+
+![TREM2 Genotype UMAP](notebooks/results/final_results/UMAP_TREM2_genotype.png)
+
+### Cell-Type Composition
+
+Comparison of WT and R47H cell-type composition.
+
+![Cell Type Composition](notebooks/results/final_results/WT_vs_R47H_celltype_composition.png)
+
+### GO Enrichment
+
+Functional enrichment analysis across the annotated cell populations.
+
+![GO Enrichment](notebooks/results/final_results/GO_enrichment_summary.png)
+
+### Microglial GSEA
+
+Ranked-gene GSEA highlights biological processes associated with TREM2 R47H
+in microglia.
+
+![Microglia GSEA](notebooks/results/trem2_DE/GSEA_Microglia_Clean/Microglia_GSEA_summary.png)
+
+### Microglial Leading-Edge Analysis
+
+Leading-edge genes associated with the enriched microglial pathways.
+
+![Leading Edge Heatmap](notebooks/results/trem2_DE/GSEA_Microglia_Clean/Microglia_GSEA_leading_edge_heatmap.png)
